@@ -29,6 +29,9 @@ body{
     background: linear-gradient(-25deg, #d84869, #f46641);
     animation: circle1Animate 15s  infinite ;
 }
+a{
+    text-decoration: none;
+}
 @keyframes circle1Animate {
     0%{
 
